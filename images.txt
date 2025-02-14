@@ -1,4 +1,4 @@
-redis:7.4.1
+dockurr/windows
 #支持私库
 
 #支持指定架构
